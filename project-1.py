@@ -1,3 +1,4 @@
+# ANALIZADOR DE TEXTO
 text = input("Ingresa un texto: ").lower()
 text.split(" ")
 letter1 = input("Ingresa una letra: ").lower()
